@@ -11,7 +11,7 @@ This project showcases RxJS observables and operators and how they can be combin
 ## Getting the code
 Run the following in the terminal or command prompt to download and enter the project:
 ```bash
-git clone https://github.com/UltimateAngular/hello-rxjs.git
+git clone https://github.com/onehungrymind/hello-rxjs.git
 cd hello-rxjs
 ```
 
